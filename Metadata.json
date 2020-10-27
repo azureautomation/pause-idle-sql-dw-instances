@@ -1,0 +1,20 @@
+{
+    "Author": "James R Tabor",
+    "ContentSize": 6405,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/pause-idle-sql-dw-instances/master/Pause%20Idle%20SQL%20DW%20Instances.ps1",
+    "DownloadCount": 1412,
+    "Id": "Pause-Idle-SQL-DW-Instances-33f35c9a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 104,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-11-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Pause Idol SQL DW Instances by querying execution history via SQL connection.",
+    "Title": "Pause Idle SQL DW Instances",
+    "UpdatedDate": "2017-11-20T00:00:00",
+    "Url": "https://github.com/azureautomation/pause-idle-sql-dw-instances",
+    "UserTags": "Microsoft Azure, Automation, Azure SQL Data Warehouse"
+}
